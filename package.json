@@ -45,6 +45,5 @@
     "mocha-lcov-reporter": "~0.0.2",
     "mversion": "^1.10.1",
     "underscore": "^1.9.1"
-  },
-  "dependencies": {}
+  }
 }

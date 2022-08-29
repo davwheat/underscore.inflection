@@ -1,3 +1,1 @@
-module.exports = process.env.JSCOV
-  ? require('./lib-cov')
-  : require('./lib/underscore.inflection.js');
+module.exports = require('./lib/underscore.inflection.js');
